@@ -1,0 +1,6 @@
+flex-wrap: wrap 을 하면 width를 유지하며 부모요소의 크기보다 커졌을 경우
+줄바꿈을 한다.
+
+부모요소에 display: flex; justify-content: center; 를 주게 되면
+자식요소가 수평 가운데 정렬이 된다.
+혹은 자식 요소에 margin:0 auto를 해도 가운데 정렬이 됨.
